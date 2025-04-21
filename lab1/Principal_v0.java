@@ -1,9 +1,9 @@
 /**
- * Lab0: Leitura de Base de Dados N�o-Distribuida
+ * Lab 1: Leitura de Base de Dados N�o-Distribuida
  * 
  * Integrantes do grupo:
  * - Vitor Luis de Queiroz Batista - 2104679
- * Ultima atualizacao: 20/02/2023
+ * - 
  * 
  * Referencias: 
  * https://docs.oracle.com/javase/tutorial/essential/io
